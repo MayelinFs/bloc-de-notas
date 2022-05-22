@@ -1,2 +1,5 @@
-# bloc-de-notas
-Un bloc de notas, con una caja de texto, un menú y los botones del menú, la parte grafica no es muy complicada , he usado tkinter python
+********************Bloc de Notas**********************************
+Para poder ejecutar este programa se necesita tener instalado:
+  * Python
+  * Libraria tkinter
+ Ejecutar el archivo main, y da las opciones del bloc de notas del Windows, Usamos diferentes widgets como, Menu, Text, Scrollbar, Label, Button, colorchooser, etc. 
