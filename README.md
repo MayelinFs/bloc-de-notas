@@ -1,4 +1,4 @@
-********************Bloc de Notas**********************************
+Bloc de Notas
 Para poder ejecutar este programa se necesita tener instalado:
   * Python
   * Libraria tkinter
